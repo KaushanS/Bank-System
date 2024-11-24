@@ -28,7 +28,7 @@ Prerequisites:
 - A C compiler, such as gcc.
 Installation:
 1. Clone the repository:
-git clone https://github.com/KaushanS/Future-Banking-System.git
+git clone https://github.com/KaushanS/Banking-System.git
 2. Compile the C code:
 gcc main.c -o bank.exe
 3. Run the compiled executable:
